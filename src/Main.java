@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        long startTime = System.nanoTime();
+        long startTime = System.nanoTime(); // Запоминаем время начала работы
 
         int rateUSD = 102;
         int rateEUR = 120;
