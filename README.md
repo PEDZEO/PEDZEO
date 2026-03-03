@@ -18,11 +18,6 @@
   <a href="https://github.com/BEDOLAGA-DEV"><img src="https://img.shields.io/badge/Organization-BEDOLAGA--DEV-111827?style=flat-square&logo=github&logoColor=white" alt="Organization" /></a>
 </p>
 
-## Now
-- Building backend systems and Telegram-first products.
-- Focused on automation, observability, and reliable deployment flows.
-- Open to collaboration via Telegram: [@pedzeo](https://t.me/pedzeo).
-
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,fastapi,postgres,redis,docker,linux,bash,nginx,git,githubactions,vscode,postman&theme=dark" alt="Tech stack" />
@@ -59,13 +54,6 @@
   <img height="170" src="https://streak-stats.demolab.com?user=PEDZEO&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PEDZEO&theme=tokyonight" alt="Repos per language" />
 </p>
-
-## Featured Projects
-| Project | Description | Stack | Activity |
-| --- | --- | --- | --- |
-| [remnawave-bedolaga-telegram-bot](https://github.com/PEDZEO/remnawave-bedolaga-telegram-bot) | Telegram + web system for subscription sales with Remnawave integration. | Python | ![last commit](https://img.shields.io/github/last-commit/PEDZEO/remnawave-bedolaga-telegram-bot?style=flat-square) ![stars](https://img.shields.io/github/stars/PEDZEO/remnawave-bedolaga-telegram-bot?style=flat-square) |
-| [remnawave-panel-backup-telegram](https://github.com/PEDZEO/remnawave-panel-backup-telegram) | Backup and restore scripts with Telegram notifications. | Shell | ![last commit](https://img.shields.io/github/last-commit/PEDZEO/remnawave-panel-backup-telegram?style=flat-square) ![stars](https://img.shields.io/github/stars/PEDZEO/remnawave-panel-backup-telegram?style=flat-square) |
-| [bedolagaban-install](https://github.com/PEDZEO/bedolagaban-install) | Installer scripts and monitoring components for VPN operations. | Shell | ![last commit](https://img.shields.io/github/last-commit/PEDZEO/bedolagaban-install?style=flat-square) ![stars](https://img.shields.io/github/stars/PEDZEO/bedolagaban-install?style=flat-square) |
 
 <div align="center">
   <sub>Open for collaboration on backend automation, bot ecosystems, and infrastructure tooling.</sub>
