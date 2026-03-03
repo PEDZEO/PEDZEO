@@ -18,15 +18,23 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,fastapi,postgres,redis,docker,linux,bash,nginx,git,githubactions,vscode&theme=dark" />
 </p>
 
+### Organization
+
+<p align="center">
+  <a href="https://github.com/BEDOLAGA-DEV">
+    <img src="https://img.shields.io/badge/Organization-BEDOLAGA--DEV-111827?style=for-the-badge&logo=github&logoColor=white" alt="BEDOLAGA-DEV" />
+  </a>
+</p>
+
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PEDZEO&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEDZEO&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PEDZEO&theme=tokyonight" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=PEDZEO&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PEDZEO&theme=tokyonight" alt="Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PEDZEO&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### Featured Projects
